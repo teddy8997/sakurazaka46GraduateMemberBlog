@@ -1,0 +1,15 @@
+[
+  {
+    "year": "2021",
+    "member": 
+    [
+      {
+        "name": "松平璃子",
+        "name_hiragana": "まつだいらりこ",
+        "image": "../member_img/riko.matsudaira.jpg",
+        "link" : "../sakurazaka46/riko.matsudaira/riko.matsudaira.html",
+        "graduation_date": "2021年3月14日"
+      }
+    ]
+  }
+]
